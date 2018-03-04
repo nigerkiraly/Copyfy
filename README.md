@@ -35,3 +35,5 @@ PLAYLIST_ID SONGS_ID
 
 USERS_PLAYLISTS kapcsoló tábla (1-sok)<br/>
 USER_ID PLAYLISTS_ID
+
+shaq tedd privátra a cuccaidat!!!
